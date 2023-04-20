@@ -63,9 +63,9 @@ staging area
 
 21. `git add .`: this command will add all files from working repo to staging area.
 
-23. `git push <remote name> <branch name>` : push commit to to the github.
+22. `git push <remote name> <branch name>` : push commit to to the github.
 
-22. `git pull <remote name> <branch name>` : downloads latest changes from the branch of the mentioned remote in your local repo.
+23. `git pull <remote name> <branch name>` : downloads latest changes from the branch of the mentioned remote in your local repo.
 
 ### Recommended practice to do
 
@@ -75,9 +75,6 @@ staging area
     - git pull
     - git push 
     
-23. Merge conflicts are a very common scnario
-
-
-merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
-
-
+24. Merge conflicts are a very common scnario: merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate 
+ 
+25. In order to move changes to Github , first we have to commit then push.
